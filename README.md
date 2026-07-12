@@ -7,9 +7,9 @@ I specialize in ML, DL, computer vision, and NLP — I build systems that see, r
 My main stack is Python, scikit-learn, OpenCV, and YOLOv8, with Pandas/SQL for the data side. I'm AWS certified in Bedrock and Generative AI.
 
 
-# Fun Facts:
+### Fun Facts:
 - F1 fan
 - I love to travel
 
-# Hobbies: 
+### Hobbies: 
 videography, esports, content creation, painting
