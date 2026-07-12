@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**javeriaaaakber/javeriaaaakber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Javeria, an AI graduate based in Islamabad, Pakistan.
 
-Here are some ideas to get you started:
+I specialize in ML, DL, computer vision, and NLP — I build systems that see, read, and learn.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main stack is Python, scikit-learn, OpenCV, and YOLOv8, with Pandas/SQL for the data side. I'm AWS certified in Bedrock and Generative AI.
+
+
+# Fun Facts:
+- F1 fan
+- I love to travel
+
+# Hobbies: 
+videography, esports, content creation, painting
