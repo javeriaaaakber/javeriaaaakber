@@ -23,12 +23,23 @@
 
 | Project | What it does | Stack |
 |---|---|---|
+| **[Dialogue Summarization with Transformers](https://github.com/javeriaaaakber/dialogue-summarization-transformers)** | Fine-tunes and compares BART, T5 and GPT-2 on SAMSum and XSum. Fine-tuned BART-large reaches **51.5 ROUGE-1** on SAMSum | Python · PyTorch · Hugging Face |
+| **[Cyber Threat Detection](https://github.com/javeriaaaakber/cyber-threat-detection-ml)** | Classifies 9 attack types with ensemble models. A data audit shows why every model plateaus near 54% and where the accuracy ceiling sits | Python · scikit-learn · Pandas |
+
+<details>
+<summary><b>More projects</b> (repos coming soon)</summary>
+<br>
+
+| Project | What it does | Stack |
+|---|---|---|
 | **Vision Kick** | Football match analysis: detects and tracks players and the ball, and visualises movement and tactical positioning | Python · YOLOv8 · OpenCV |
 | **Esports Intelligence Agent** | RAG-based agent that answers questions about the esports scene | Python · RAG · LLMs |
 | **Malware Classification** | Compares decision trees and ensemble classifiers on engineered file and behaviour features | Python · scikit-learn · Pandas |
 | **Hospital Management System** | Doctor scheduling with emergency-priority patient appointments | Python · SQL |
 | **Automated Car Parking System** | Arduino-based slot monitoring and automatic allocation using IoT sensors | Arduino · Embedded C |
 | **Drone Delivery Route Simulator** | Delivery pathfinding with Dijkstra and A* | Python · Graph algorithms |
+
+</details>
 
 ---
 
